@@ -1,0 +1,12 @@
+spring:
+  profiles: wnn001
+server:
+  port: 9000
+
+
+---
+spring:
+  profiles: wnn002
+server:
+  port: 9001
+  
